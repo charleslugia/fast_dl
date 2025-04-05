@@ -1,0 +1,6 @@
+5
+weapon		640 cracklife/640hud12	0	45	170	45
+weapon_s	640 cracklife/640hud42	0	45	170	45
+ammo		640 cracklife/640hud72	0	72	24	24
+crosshair	640 cracklife/crosshairs			24	0	24	24
+autoaim		640 cracklife/crosshairs			0	72	24	24
